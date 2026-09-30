@@ -1,4 +1,4 @@
-# Raphael · Data Engineer
+# Raphael Ramos · Data Engineer
 
 I build data pipelines that take messy sources all the way to a reliable database. Computer Science graduate from Universidade Federal de Campina Grande (Brazil), open to Data Engineer roles in Brazil or remote.
 
