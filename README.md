@@ -2,7 +2,7 @@
 
 I build data pipelines that take messy sources all the way to a reliable database. Computer Science graduate from Universidade Federal de Campina Grande (Brazil), open to Data Engineer roles in Brazil or remote.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-c-1a7430108)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelcramos/)
 [![Email](https://img.shields.io/badge/raphaelramosc@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:raphaelramosc@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0E7565?style=flat&logo=githubpages&logoColor=white)](https://raphacramos.github.io)
 
@@ -39,4 +39,4 @@ International radio astronomy collaboration. Control software and real-time tele
 
 ---
 
-🇧🇷 **Em português:** sou engenheiro de dados formado em Ciência da Computação pela UFCG. Construo pipelines que levam dado bagunçado até um banco confiável. Aberto a vagas de Engenheiro de Dados no Brasil ou remoto. Me chama no [LinkedIn](https://www.linkedin.com/in/raphael-c-1a7430108).
+🇧🇷 **Em português:** sou engenheiro de dados formado em Ciência da Computação pela UFCG. Construo pipelines que levam dado bagunçado até um banco confiável. Aberto a vagas de Engenheiro de Dados no Brasil ou remoto. Me chama no [LinkedIn](https://www.linkedin.com/in/raphaelcramos/).
